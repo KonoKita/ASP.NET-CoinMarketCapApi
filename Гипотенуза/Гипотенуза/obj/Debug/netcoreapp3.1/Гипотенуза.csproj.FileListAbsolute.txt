@@ -1,0 +1,11 @@
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\bin\Debug\netcoreapp3.1\Гипотенуза.exe
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\bin\Debug\netcoreapp3.1\Гипотенуза.deps.json
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\bin\Debug\netcoreapp3.1\Гипотенуза.runtimeconfig.json
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\bin\Debug\netcoreapp3.1\Гипотенуза.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\bin\Debug\netcoreapp3.1\Гипотенуза.dll
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\bin\Debug\netcoreapp3.1\Гипотенуза.pdb
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\obj\Debug\netcoreapp3.1\Гипотенуза.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\obj\Debug\netcoreapp3.1\Гипотенуза.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\obj\Debug\netcoreapp3.1\Гипотенуза.AssemblyInfo.cs
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\obj\Debug\netcoreapp3.1\Гипотенуза.dll
+C:\Users\Michael\Desktop\C#\Works\Гипотенуза\Гипотенуза\obj\Debug\netcoreapp3.1\Гипотенуза.pdb

@@ -1,0 +1,24 @@
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.exe
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.deps.json
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.runtimeconfig.json
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.dll
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.pdb
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.AssemblyInfo.cs
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.dll
+C:\Users\Michael\Desktop\C#\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.pdb
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.exe
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.deps.json
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.runtimeconfig.json
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.dll
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\bin\Debug\netcoreapp3.1\Сортировка Расческой.pdb
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.AssemblyInfo.cs
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.dll
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.pdb
+C:\Users\Michael\Desktop\C# Dev\Works\Сортировка Расческой\Сортировка Расческой\obj\Debug\netcoreapp3.1\Сортировка Расческой.genruntimeconfig.cache
